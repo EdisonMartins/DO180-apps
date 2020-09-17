@@ -1,3 +1,3 @@
 <?php
-print "JAVA > PHP . "\n";
+print "JAVA > PHP ." "\n";
 ?>
